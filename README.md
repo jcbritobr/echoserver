@@ -1,2 +1,2 @@
 # echoserver
-A simple echo blocking echo server in rust
+A simple echo blocking server in rust
